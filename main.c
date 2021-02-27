@@ -1,6 +1,6 @@
 #include<studio.h>
 
 int main(){
-	printf("hello word");
+	printf("hello \n");
 	return 0;
 }
